@@ -1,7 +1,12 @@
-# Simple Presenter releases
+<p align="center">
+  <img src="logo.png" width="96" height="96" alt="Simple Presenter" />
+</p>
 
-Installers and the update feed for **Simple Presenter**, presentation software
-for churches by [Arsi Consultancy](https://arsi.in).
+<h1 align="center">Simple Presenter releases</h1>
+
+<p align="center">
+  Presentation software for churches, by <a href="https://arsi.in">Arsi Consultancy</a>.
+</p>
 
 - **Download:** the newest installer is on the
   [latest release](https://github.com/arsi-consultancy/simplepresenter-releases/releases/latest).
